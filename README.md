@@ -19,3 +19,6 @@ Fill username & password:
 Login success!
 
 ![image](https://user-images.githubusercontent.com/30464635/137608142-f702e7b3-f61b-4c82-8f55-ed29f12dffda.png)
+
+File details report
+[HuynhTrongThua_D16CQAT01N_LeQuangNhu_Final.pdf](https://github.com/nhulq98/web-security-with-sso/files/7358589/HuynhTrongThua_D16CQAT01N_LeQuangNhu_Final.pdf)
